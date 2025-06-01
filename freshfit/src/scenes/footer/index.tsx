@@ -16,9 +16,9 @@ const Footer = () => {
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Links</h4>
-          <p className="my-5">natus quidem eveniet</p>
-          <p className="my-5">perferendis assumenda</p>
-          <p>natus quidem eveniet</p>
+          <p className="my-5">links on website</p>
+          <p className="my-5">links of ig</p>
+          <p>link of facebook</p>
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Contact Us</h4>
