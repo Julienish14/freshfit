@@ -16,16 +16,20 @@ const Footer = () => {
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Links</h4>
-          <p className="my-5">links on website</p>
+          <p className="my-5">
+            <a href="https://www.instagram.com/julienish14/">Instagram</a>
+          </p>
           <p className="my-5">
             {" "}
             <a
               href="https://x.com/___jish"
               target="_blank"
-              rel="noopener noreferrer"
-            ></a>{" "}
+              //   rel="noopener noreferrer"
+            >
+              X(twitter)
+            </a>{" "}
           </p>
-          <p>https://www.instagram.com/julienish14/</p>
+          {/* <p>https://www.instagram.com/julienish14/</p> */}
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Contact Us</h4>
