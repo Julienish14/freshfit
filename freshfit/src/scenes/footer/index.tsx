@@ -17,8 +17,8 @@ const Footer = () => {
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Links</h4>
           <p className="my-5">links on website</p>
-          <p className="my-5">links of ig</p>
-          <p>link of facebook</p>
+          <p className="my-5">https://x.com/___jish</p>
+          <p>https://www.instagram.com/julienish14/</p>
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Contact Us</h4>
