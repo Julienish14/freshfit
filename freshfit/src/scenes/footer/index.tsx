@@ -29,7 +29,6 @@ const Footer = () => {
               X(twitter)
             </a>{" "}
           </p>
-          {/* <p>https://www.instagram.com/julienish14/</p> */}
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Contact Us</h4>
